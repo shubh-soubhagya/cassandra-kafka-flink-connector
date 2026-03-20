@@ -1,0 +1,25 @@
+
+ user_id          | product_id | score
+------------------+------------+-------
+         wroberts |         p1 |     1
+            kmack |         p4 |     1
+     smithdarlene |         p4 |     1
+             ncox |         p1 |     1
+    carsonnatalie |         p1 |     1
+          dburton |         p2 |     1
+      teresagibbs |         p3 |     1
+        makayla50 |         p3 |     1
+        matthew78 |         p1 |     1
+    anthonygentry |         p1 |     1
+        greenlori |         p3 |     1
+      perkinsryan |         p3 |     1
+      kellyhunter |         p4 |     1
+    sarahcastillo |         p4 |     1
+ williamsnicholas |         p2 |     1
+      dixonrachel |         p2 |     1
+     garretttammy |         p4 |     1
+           paul50 |         p4 |     1
+          cathy38 |         p4 |     1
+           dmiles |         p2 |     1
+
+(20 rows)

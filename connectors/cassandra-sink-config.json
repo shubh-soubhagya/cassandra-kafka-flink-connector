@@ -1,0 +1,9 @@
+{
+  "connector.class": "com.datastax.oss.kafka.sink.CassandraSinkConnector",
+  "tasks.max": "2",
+  "topics": "recommendations",
+  "contactPoints": "cassandra",
+  "loadBalancing.localDc": "datacenter1",
+  "topic.recommendations.recommendation.recommendations.mapping": "user_id=value.user_id, product_id=value.product_id, score=value.score",
+  "topic.recommendations.recommendation.recommendations.consistencyLevel": "LOCAL_ONE"
+}

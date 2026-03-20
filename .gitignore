@@ -1,0 +1,19 @@
+# Environments
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Docker
+docker-compose.override.yml
+
+# We will NOT ignore the /proof directory because the user requested it as evidence.
